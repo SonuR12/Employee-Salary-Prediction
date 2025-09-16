@@ -4,6 +4,14 @@ This project predicts employee salaries using Machine Learning models based on v
 
 ---
 
+
+## 📱 Screenshots
+![image](https://github.com/SonuR12/Employee-Salary-Prediction/blob/main/Demo.png)
+
+---
+
+
+
 ## 📂 Files Included
 
 - `emp_sal_pre.ipynb` – Main Jupyter Notebook for training and evaluating the model
